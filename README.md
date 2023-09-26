@@ -18,7 +18,6 @@ This is a Python program that runs in the form of an IPython Notebook (.ipynb) f
 ## Usage
 
 Provide detailed steps and examples on how to use.
-
 To ensure a systematic approach for generating the specific data feature-label pairs for targeted NMR spectrum restoration, please follow the steps outlined below:
 1. Exclude the water peak region from the spectrum.
 2. Normalize the intensity of the singlet peak of the internal standard (reference) to 1.
@@ -44,7 +43,6 @@ To ensure a systematic approach for generating the specific data feature-label p
 - `models_RHUnet.py`: This file contains the neural network model and loss function required for this method.
 - `RH_Unet_example_GSH_handout.ipynb`: This is an interactive file consisting of a series of cells. It allows users to run the method cell by cell in this IPython Notebook file.
 - `LICENSE`: This file contains the project's license information.
-
 
 ## License
 
