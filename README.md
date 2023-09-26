@@ -31,6 +31,12 @@ To ensure a systematic approach for generating the specific data feature-label p
 7.Rescale the feature-label data pair using the maximum value observed in both the features and labels.
 
 
+## Notes
+
+1. You should input the resonance frequency in MHz for the cal_t2 function.
+2. You should define the water region for water_position cell.
+
+
 ## License
 
 This project is licensed under the MIT License.
