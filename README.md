@@ -36,7 +36,7 @@ To ensure a systematic approach for generating the specific data feature-label p
 ## File Structure
 
 - `README.md`: This file provides an overview of the project and instructions for usage.
-- `GSH_850` files: Contains Bruker NMR raw FID data and processed spectra..
+- `GSH_850` files: Contains Bruker NMR raw FID data and processed spectra.
 - `GSH_example_850_8_goodshim.txt` : This file contains the NMR spectrum of the GSH sample acquired at 850 MHz in a homogeneous magnetic field. It corresponds to the 8th FID.
 - `GSH_example_850_19_doible_16Hz_abs.txt` : This file contains the NMR spectrum of the GSH sample acquired at 850 MHz in a severely inhomogeneous magnetic field. It corresponds to the 19th FID.
 - `GSH_example_850_24_tri_abs.txt` : This file contains the NMR spectrum of the GSH sample acquired at 850 MHz in a slightly inhomogeneous magnetic field. It corresponds to the 24th FID.
