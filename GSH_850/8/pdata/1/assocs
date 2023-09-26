@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= zhangx
+$$ 2023-04-22 10:25:43.267 +0800  zhangx@Bruker850
+$$ D:/zhangx/xiongjie_xiao/GSH_20230422_850/8/pdata/1/assocs
+$$ process C:\Bruker\TopSpin3.5pl7\prog\mod\dataserver.exe
+##$MULTDISP= <D:/zhangx/xiongjie_xiao/GSH_20221228_850/8/pdata/1>
+##END=

@@ -1,0 +1,27 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= zhangx
+$$ D:/zhangx/xiongjie_xiao/GSH_20230422_850/8/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2023-04-22 10:24:23.769 +0800>,<zhangx>,<Bruker850>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2023-04-22 10:23:48.216 +0800,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       5A 08 C1 7E 52 7B 38 62 FE FD FA 01 D6 C5 59 EE
+       data hash MD5: 32K
+       BB A2 44 61 81 52 59 A8 14 86 89 1F D3 4B 65 96>)
+(   2,<2023-04-22 10:24:35.547 +0800>,<zhangx>,<Bruker850>,<proc1d>,<TopSpin 3.5.7>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = -31.3194 PHC1 = -83.125 SI = 64K 
+       data hash MD5: 64K
+       F2 4B 5A 67 8E 5F 7B 6E 55 CF A7 08 2D 3F 94 1A>)
+(   3,<2023-04-22 10:24:57.512 +0800>,<zhangx>,<Bruker850>,<proc1d>,<TopSpin 3.5.7>,
+      <pk fgphup PHC0 = -7.617493 PHC1 = 7.95 
+       data hash MD5: 64K
+       9D DB 05 AE 1B 9D 77 6C 84 26 B6 8B A2 C2 27 61>)
+##END=
+
+$$ hash MD5
+$$ AE BA 2F 73 D8 BA 1E AF 14 84 65 23 29 A8 6F BE

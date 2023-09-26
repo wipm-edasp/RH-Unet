@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.6.5
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= dell
+$$ 2023-08-14 10:47:50.375 +0800  dell@DESKTOP-0CB2C1B
+$$ D:/Bruker/Topspin Data/850/GSH_20221228_850/24/pdata/99/outd
+$$ process D:\Bruker\TopSpin3.6.5\prog\mod\dirdata.exe
+##$CURPLOT= <HPP2035n>
+##$CURPRIN= <$HPP2035n>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

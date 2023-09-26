@@ -1,0 +1,5 @@
+P    #regions in PPM
+# 2023-04-15 16:58:26 +0800  dell@DESKTOP-0CB2C1B
+# low field   high field   mi   maxi
+  0.291270867268052  0.20828976426974102  0.000  1000.000  # for region 1
+  0.208279764269741  -0.755225811904913  0.000  1000.000  # for region 2

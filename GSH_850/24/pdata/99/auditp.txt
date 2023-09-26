@@ -1,0 +1,35 @@
+##TITLE= Audit trail, TopSpin 3.6.5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= dell
+$$ D:/Bruker/Topspin Data/850/GSH_20221228_850/24/pdata/99/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2022-12-28 17:20:12.169 +0800>,<zhangx>,<Bruker850>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2022-12-28 17:19:38.440 +0800,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       C6 D4 5A D7 96 E4 C8 4A 31 75 60 4F BD 6E E0 50
+       data hash MD5: 32K
+       B2 8B 64 B7 F0 8E 1E 44 9A 82 42 FE BF 26 5F 76>)
+(   2,<2023-04-15 16:55:06.520 +0800>,<dell>,<DESKTOP-0CB2C1B>,<proc1d>,<TopSpin 3.6.5>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = -31.68407 PHC1 = -80.575 SI = 64K 
+       data hash MD5: 64K
+       7E 00 FD 35 31 7A 89 17 71 8F 9F 57 00 B6 FE 93>)
+(   3,<2023-04-15 16:55:15.278 +0800>,<dell>,<DESKTOP-0CB2C1B>,<proc1d>,<TopSpin 3.6.5>,
+      <abs ABSG = 5 
+       data hash MD5: 64K
+       0D AC 35 62 BD 96 4B AB 12 D6 87 6A 53 08 4B E2>)
+(   4,<2023-04-15 16:55:55.432 +0800>,<dell>,<DESKTOP-0CB2C1B>,<dataserver>,<TopSpin 3.6.5>,
+      <refdcon RDFWHM = 2.69516654636516 Hz RDF1 = 0.032 ppm RDF2 = -0.09 ppm RDPOS = 1.1E-5 ppm RDINT = 196378.408691406 
+       data hash MD5: 64K
+       FE BD A7 C1 21 10 89 72 4B 33 23 A4 A3 07 97 41>)
+(   5,<2023-08-14 10:47:50.440 +0800>,<dell>,<DESKTOP-0CB2C1B>,<dirdata>,<TopSpin 3.6.5>,
+      <wrp from 1 24 "GSH_20221228_850" "D:/Bruker/Topspin Data/850"
+       data hash MD5: 64K
+       FE BD A7 C1 21 10 89 72 4B 33 23 A4 A3 07 97 41>)
+##END=
+
+$$ hash MD5
+$$ 0D D7 37 FC 95 F8 5D A2 1A 52 5F 97 94 1D 85 8A

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2023-04-02T21:06:38">
+  <PeakList1D>
+    <PeakList1DHeader creator="dell" date="2023-04-02T21:06:38" expNo="24" name="GSH_20221228_850" owner="" procNo="1" source="D:/Bruker/Topspin Data/850">
+      <PeakPickDetails>F1=0.032000ppm, F2=-0.090000ppm, MI=0.00cm, MAXI=1000.00cm, PC=0.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="0.031408" intensity="0.7779344" type="0"/>
+    <Peak1D F1="0.030307" intensity="0.813939" type="0"/>
+    <Peak1D F1="0.029481" intensity="0.83213" type="0"/>
+    <Peak1D F1="0.028581" intensity="0.8341309" type="0"/>
+    <Peak1D F1="0.025485" intensity="0.9899131" type="0"/>
+    <Peak1D F1="0.023422" intensity="1.144257" type="0"/>
+    <Peak1D F1="0.022522" intensity="1.189114" type="0"/>
+    <Peak1D F1="0.009828" intensity="100.5122" type="0"/>
+    <Peak1D F1="-1.34E-4" intensity="200.0" type="0"/>
+    <Peak1D F1="-0.011015" intensity="73.64198" type="0"/>
+    <Peak1D F1="-0.059232" intensity="2.609517" type="0"/>
+    <Peak1D F1="-0.061047" intensity="2.630997" type="0"/>
+    <Peak1D F1="-0.071242" intensity="2.170227" type="0"/>
+    <Peak1D F1="-0.078721" intensity="1.096133" type="0"/>
+    <Peak1D F1="-0.079527" intensity="1.071816" type="0"/>
+    <Peak1D F1="-0.081681" intensity="1.002241" type="0"/>
+    <Peak1D F1="-0.087364" intensity="0.5777808" type="0"/>
+  </PeakList1D>
+</PeakList>

@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TopSpin 3.6.5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= dell
+$$ D:/Bruker/Topspin Data/850/GSH_20221228_850/19/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2022-12-28 17:11:41.156 +0800>,<zhangx>,<Bruker850>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2022-12-28 17:11:04.045 +0800,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       C6 D4 5A D7 96 E4 C8 4A 31 75 60 4F BD 6E E0 50
+       data hash MD5: 32K
+       A5 1E 34 D8 DD ED AA AA CD AE D7 8D 0C F1 E0 1D>)
+(   2,<2023-04-16 07:28:09.906 +0800>,<dell>,<DESKTOP-0CB2C1B>,<proc1d>,<TopSpin 3.6.5>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = -31.06799 PHC1 = -80.85 SI = 64K 
+       data hash MD5: 64K
+       DF 8B 21 38 F1 4C C5 E2 EB 3F D6 15 B9 1E E5 02>)
+##END=
+
+$$ hash MD5
+$$ 2B 6A F5 02 D7 A7 20 76 7A 0B 61 C3 82 D0 55 13

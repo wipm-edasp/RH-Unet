@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= zhangx
+$$ 2022-12-28 17:19:34.679 +0800  zhangx@Bruker850
+$$ D:\zhangx\xiongjie_xiao/GSH_20221228_850/24/pdata/1/outd
+$$ process C:\Bruker\TopSpin3.5pl7\prog\mod\edparproc.exe
+##$CURPLOT= <HPP2035n>
+##$CURPRIN= <$HPP2035n>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

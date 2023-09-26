@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="dell" date="2023-08-27T09:37:08.803+08:00" expNo="8" name="GSH_20230422_850" owner="" procNo="1" source="D:/Bruker/Topspin Data/850">
+      <PeakPickDetails>F1=0.469824ppm, F2=-0.687427ppm, MI=50.00cm, MAXI=10000.00cm, PC=4.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="-0.075097" intensity="1.000000e+002" type="0"/>
+  </PeakList1D>
+</PeakList>

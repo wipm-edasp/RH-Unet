@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 3.6.5
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 18	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= dell
+$$ 2023-08-15 11:14:42.525 +0800  dell@DESKTOP-0CB2C1B
+$$ D:/Bruker/Topspin Data/850/GSH_20221228_850/24/pdata/1/assocs
+$$ process D:\Bruker\TopSpin3.6.5\prog\mod\dataserver.exe
+##$MULTDISP= <D:/Bruker/Topspin Data/850/GSH_20221228_850/24/pdata/99|D:/Bruker/Topspin Data/800/20170514-jingdian-milk-800M/3/pdata/1>
+##END=
