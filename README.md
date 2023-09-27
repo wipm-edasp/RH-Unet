@@ -50,5 +50,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-You can reach me through the following channels:
+You can reach me through the following channel:
 - Email: xiaoxj007@outlook.com
