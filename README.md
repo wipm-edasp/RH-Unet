@@ -1,6 +1,6 @@
 # RH-Unet
 
-This repository contains the software implementation of RH-Unet, a method for utilizing deep learning to correct NMR spectra acquired in non-uniform magnetic fields. The detailed description and comparison with REFDCON can be found in the paper titled "Restore high-resolution NMR spectra from inhomogeneous magnetic fields using neural network".
+This repository contains the software implementation of RH-Unet, a method for utilizing deep learning to correct NMR spectra acquired in non-uniform magnetic fields. The detailed description and comparison with REFDCON can be found in the paper titled "[Restore High-Resolution Nuclear Magnetic Resonance Spectra from Inhomogeneous Magnetic Fields Using a Neural Network](https://pubs.acs.org/doi/10.1021/acs.analchem.3c02688)".
 
 ## Features
 
